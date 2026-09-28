@@ -22,6 +22,5 @@
 ## Целевая аудитория
 Позднооглохшие взрослые и подростки, которые хотят сохранить естественность и разборчивость своей речи.
 ## Статус
+
 Концепция. Прототип в планах.
-https://github.com/alroldigun-Enchanted/Speech-editor/blob/main/README.md
-#DeafTech #Accessibility #AssistiveTech #HapticFeedback #SpeechTherapy 
